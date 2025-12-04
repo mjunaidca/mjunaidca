@@ -1,54 +1,23 @@
-### Hi there 👋 I'm Muhammad Junaid
+### Hi 👋 I'm Muhammad Junaid
 
-### Cloud Applied Generative AI Engineer (GenEng)
+Building governed, reliable, and measurable AI agents — not demos.
 
-* 👨‍💻  Now shipping applied generative ai products and building api first design ai microservices. Build most stuff using the [nextjs14](https://nextjs.org/), [fastapi](https://fastapi.tiangolo.com/), modern-python, and the [genai-stack](https://github.com/panaverse/learn-generative-ai)
-* 🤝  Open Source Enthusiast
-* 🧑‍🏫  Indie contractor
-* 🌍  Based in Pakistan 🇵🇰
-* 🧠  Learning @ [Presidential Initiative for Artificial Intelligence and Computing](piaic.org)
+Teaching to ship AI-native and AI-first products through specification, not syntax. Faculty at [Panaversity](https://panaversity.org/) and [PIAIC](https://piaic.org). Taught Python at Stanford CIP in 2024.
 
-### Skills
+**Methodology:** Spec-Driven Development with Reusable Intelligence (SDD-RI)
 
-<p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
-  <!-- FastAPI -->
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" />
-  </a>
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-  </a>
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  </a>
-  <!-- Google Cloud -->
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
-  </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  </a>
-  <!-- NextJS -->
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
-  </a>
-  <!-- Tailwind -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-  <!-- Additional icons follow... -->
-</p>
+**Open source:**
+- [SpecKit Plus](https://github.com/panaversity/spec-kit-plus) — SDD-RI framework
+- [AI-Native Book](https://ai-native.panaversity.org/) — co-authored by agents and humans
+- [RoboLearn](https://mjunaidca.github.io/robolearn/) — AI-native textbook platform (built in 48 hours using SDD-RI at Hackathon)
+
+**Languages:** Python · TypeScript
+
+**Stack:** Claude Code · Gemini CLI · MCP · Docker · Kubernetes · Dapr · A2A
+
+**Agent Frameworks:** OpenAI Agents SDK · Google ADK · LangGraph
+
+**Frontend:** Next.js · ChatKit
 
 ### Socials
 
