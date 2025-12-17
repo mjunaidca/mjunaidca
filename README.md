@@ -10,23 +10,10 @@ Teaching to ship AI-native and AI-first products through specification, not synt
 - [SpecKit Plus](https://github.com/panaversity/spec-kit-plus) — SDD-RI framework
 - [AI-Native Book](https://ai-native.panaversity.org/) — co-authored by agents and humans
 - [RoboLearn](https://mjunaidca.github.io/robolearn/) — AI-native textbook platform (built in 48 hours using SDD-RI)
-- <details><summary><strong>TaskFlow</strong> (Click to view Architecture) — AI-first project management for Agents & Humans.</summary>
-  <br>
-  
-  **1. Core Platform**
-  * **Multi-tenant:** Workspaces (Orgs) → Projects → Tasks (Recursive)
-  * **Security:** OAuth 2.0 Compliant MCP Server for Claude Code + UI Agent
-  * **Gen-UI:** ChatKit-integrated control panel with voice input
-  
-  **2. Cloud Infrastructure**
-  * **Compute:** Azure AKS (Micro-services + Dapr sidecars)
-  * **Stack:** Neon PostgreSQL, Upstash Redis, Traefik
-  * **DevOps:** GitHub Actions (Zero manual steps deploy)
-  
-  **3. Engineering Practice**
-  * **Spec-Driven:** 19 specifications written *before* code
-  * **Reliability:** 250+ CI tests + Dapr PubSub
-  </details>
+- [TaskFlow](https://avixato.com/) — AI-first project management for Agents (Claude Code) and Humans.
+    - **Architecture:** Azure AKS, Dapr Sidecars, 5 Micro-services, and Neon PostgreSQL.
+    - **Agentic:** OAuth 2.0 Compliant MCP Server with ChatKit Gen-UI.
+    - **Methodology:** Fully Spec-Driven (19 specs) with 250+ CI tests and Zero-touch CD.
     
 **Languages:** Python · TypeScript
 
